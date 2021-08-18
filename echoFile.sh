@@ -1,0 +1,1 @@
+Var1=30 Var2=50 ; echo The year is ${Var1}${Var2}

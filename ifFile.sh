@@ -1,0 +1,1 @@
+rm ifFile && echo Success || echo "The file no longer exists"
